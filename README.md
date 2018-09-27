@@ -9,5 +9,12 @@ avec des gens
 ## la salle
 
 ## Les projets
+- un site web
+- des rasp avec une caméra
+- un jeu vidéo
+- les arduino
+- domotique
+- install party
+
 
 ## Les horaires
